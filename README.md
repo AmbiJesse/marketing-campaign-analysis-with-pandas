@@ -1,2 +1,2 @@
-# marketing-campaign-analysis-with-pandas
-Marketing Analytics Project: Conversion Rates, Retention Rates, Segmentation, Visualization, Conversion Attribution, A/B Testing
+# Marketing Campaign Analysis with Pandas
+`Conversion Rates` `Retention Rates` `Segmentation` `Data Visualization` `Attribution` `A/B Testing`
